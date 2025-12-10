@@ -1,0 +1,41 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AlbyMargaux – Insurance & AI Friday Newsletters</title>
+  <meta name="description" content="Weekly newsletters – AI, Cloud, Copilot for Insurance.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>AlbyMargaux</h1>
+    <p class="tagline">Friday newsletters – Insurance • AI • Copilot</p>
+    <nav class="lang-switch">
+      <a class="btn" href="index.html" aria-label="Basculer en français">Français</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <h2>Featured</h2>
+      <p>Welcome! Each week I publish the newsletter in French and English.</p>
+      <p><a class="btn" href="articles/2025-12-12-en.html">Read the 12/12/2025 edition (EN)</a>
+         <a class="btn alt" href="articles/2025-12-12-fr.html">Lire en français</a></p>
+    </section>
+
+    <section class="card">
+      <h2>All issues</h2>
+      <ul class="bullets">
+        <li><a href="articles/2025-12-12-en.html">12/12/2025 – EN</a> • <a href="articles/2025-12-12-fr.html">FR</a></li>
+        <!-- Add a line per new week -->
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    © <span id="y"></span> Margaux Courtoux · <a href="index.html">Français</a>
+  </footer>
+  <script>document.getElement  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
