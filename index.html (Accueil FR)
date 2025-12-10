@@ -1,0 +1,41 @@
+
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AlbyMargaux – Newsletters Assurance & IA</title>
+  <meta name="description" content="Newsletters du vendredi – IA, Cloud, Copilot pour l'assurance.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>AlbyMargaux</h1>
+    <p class="tagline">Newsletters du vendredi – Assurance • IA • Copilot</p>
+    <nav class="lang-switch">
+      <a class="btn" href="index-en.html" aria-label="Switch to English">English</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <h2>À la une</h2>
+      <p>Bienvenue ! Chaque semaine, je publie ma newsletter en français et en anglais.</p>
+      <p><a class="btn" href="articles/2025-12-12-fr.html">Lire l’édition du 12/12/2025 (FR)</a>
+         <a class="btn alt" href="articles/2025-12-12-en.html">Read in English</a></p>
+    </section>
+
+    <section class="card">
+      <h2>Toutes les éditions</h2>
+      <ul class="bullets">
+        <li><a href="articles/2025-12-12-fr.html">12/12/2025 – FR</a> • <a href="articles/2025-12-12-en.html">EN</a></li>
+        <!-- Ajoute une ligne par nouvelle semaine -->
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+       © <span id="y"></span> Margaux Courtoux · <a href="index-en.html">English</a>
+  </footer>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
