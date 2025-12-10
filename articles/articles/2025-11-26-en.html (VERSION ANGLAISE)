@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Newsletter – November 26, 2025 – EN</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<header class="site-header">
+  <h1>Newsletter – 26 November 2025 – EN</h1>
+  <nav class="lang-switch">
+    <a href="2025-11-26-fr.html">Français</a> ·
+    <a href="../index-en.html">Home EN</a>
+  </nav>
+</header>
+
+<main class="wrap">
+
+<section class="card">
+  <h2>3 Key Takeaways</h2>
+  <ul class="bullets">
+    <li>Generali France delivered outstanding results using Copilot, CopilotChat and AI Agents.</li>
+    <li>30% of requests resolved by AI, 4.5M emails indexed, 2.1M automated operations.</li>
+    <li>Upcoming events: Copilot Chat Webinar & Copilot France Day at the Microsoft Campus.</li>
+  </ul>
+</section>
+
+<section class="card">
+  <h2>Full Summary</h2>
+
+  <p>Every Friday, I prepare this newsletter to help you sort through Microsoft updates and share key items with your collaborators.</p>
+
+  <h3>🔵 AI Transformation in Insurance – Generali France</h3>
+  <p>Generali deployed Microsoft Copilot, CopilotChat and AI Agents via Copilot Studio to transform:</p>
+
+  <ul class="bullets">
+    <li>customer relationship management</li>
+    <li>core insurance expertise</li>
+    <li>claims operations and indemnification workflows</li>
+  </ul>
+
+  <p><strong>Results:</strong></p>
+  <ul class="bullets">
+    <li>30% of requests resolved by AI</li>
+    <li>Faster claim compensation</li>
+    <li>4.5M emails indexed to understand intent and customer context</li>
+    <li>2.1M automated operations</li>
+    <li>88% beneficiary identification within a year</li>
+    <li>20× reduction in unclaimed contracts</li>
+  </ul>
+
+  <p>👉 Full testimonial available in the latest webinar.</p>
+
+  <h3>📅 Upcoming Events</h3>
+
+  <p><strong>Webinar: Copilot Chat Tips</strong><br>
+  Friday 21 November — 11:30 to 12:30<br>
+  <a href="#">➡️ Registration link</a></p>
+
+  <p><strong>Copilot France Day — 26 November</strong><br>
+  08:30–17:00 · Microsoft Campus Issy-les-Moulineaux<br>
+  <a href="#">➡️ Register</a></p>
+
+  <h3>🎯 Tailored Sessions</h3>
+  <p>IA use cases covered:</p>
+  <ul class="bullets">
+    <li>Customer & claims automation</li>
+    <li>Reimbursement workflows</li>
+    <li>AI-augmented assistance</li>
+    <li>Smart contract interrogation</li>
+    <li>Enterprise chat for internal teams</li>
+  </ul>
+
+  <p>Book your slot with Azure specialists:  
+  <strong>Thomas Lescaudron</strong> or <strong>Karine Reizo</strong>.</p>
+
+  <p>Ongoing collaboration with <strong>Claranet</strong>.</p>
+
+</section>
+
+<section class="card">
+  <h2>Resources</h2>
+  <ul class="bullets">
+    <li>Copilot France event</li>
+    <li>Copilot Chat webinar</li>
+    <li>Insurance AI documentation</li>
+  </ul>
+</section>
+
+</main>
+
+<footer class="site-footer">
+© 2025 · Margaux Courtoux
+</footer>
+
+</body>
+</
