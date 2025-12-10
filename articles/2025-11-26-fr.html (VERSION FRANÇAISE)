@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Newsletter du 26/11/2025 – FR</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<header class="site-header">
+  <h1>Newsletter du 26 novembre 2025 – FR</h1>
+  <nav class="lang-switch">
+    <a href="2025-11-26-en.html">English</a> · 
+    <a href="../index.html">Accueil</a>
+  </nav>
+</header>
+
+<main class="wrap">
+
+<section class="card">
+  <h2>Résumé en 3 points</h2>
+  <ul class="bullets">
+    <li>Generali France : résultats spectaculaires grâce à Copilot, CopilotChat et agents IA.</li>
+    <li>30% des demandes résolues automatiquement, 4,5 M d’emails indexés, 2,1 M opérations automatisées.</li>
+    <li>Invitations : Webinar Tips Copilot Chat (21/11) et Journée Copilot France au Campus (26/11).</li>
+  </ul>
+</section>
+
+<section class="card">
+  <h2>Contenu détaillé</h2>
+
+  <p>Comme chaque vendredi, je prépare cette newsletter pour t’aider à trier l’actualité Microsoft et partager les informations clés transférables à tes équipes.</p>
+
+  <h3>🔵 Transformation IA dans l’assurance : l’exemple Generali</h3>
+  <p>Generali France a déployé Microsoft Copilot, CopilotChat et des agents IA via Copilot Studio pour transformer :</p>
+
+  <ul class="bullets">
+    <li>la relation client ;</li>
+    <li>l’expertise métier ;</li>
+    <li>les opérations sinistres & indemnisation.</li>
+  </ul>
+
+  <p><strong>Résultats :</strong></p>
+  <ul class="bullets">
+    <li>30% des demandes résolues par IA ;</li>
+    <li>indemnisation plus rapide des sinistres ;</li>
+    <li>4,5 M d’emails indexés pour comprendre intentions & contexte client ;</li>
+    <li>2,1 M d’opérations automatisées ;</li>
+    <li>88% des bénéficiaires identifiés en moins d’un an ;</li>
+    <li>division par 20 des contrats en déshérence.</li>
+  </ul>
+
+  <p>👉 Témoignage complet disponible au dernier webinar.</p>
+
+  <h3>📅 Prochains rendez-vous</h3>
+
+  <p><strong>Webinar : Tips Copilot Chat</strong><br>
+  Vendredi 21 novembre — 11h30 à 12h30<br>
+  <a href="#">➡️ Lien d’inscription</a></p>
+
+  <p><strong>Copilot France — 26 novembre</strong><br>
+  8h30 à 17h · Campus Microsoft Issy-les-Moulineaux<br>
+  <a href="#">➡️ Inscription</a></p>
+
+  <h3>🎯 Sessions personnalisées</h3>
+  <p>Détail des use cases IA :</p>
+  <ul class="bullets">
+    <li>Automatisation du service client & sinistres</li>
+    <li>Traitement des remboursements</li>
+    <li>Assistance augmentée par IA</li>
+    <li>Interrogation intelligente des contrats</li>
+    <li>Chat d’entreprise interne pour équipes</li>
+  </ul>
+
+  <p>Réservation créneau auprès d’un spécialiste Azure :  
+  via l’agenda de <strong>Thomas Lescaudron</strong> ou <strong>Karine Reizo</strong>.</p>
+
+  <p>Collaboration en cours avec <strong>Claranet</strong>.</p>
+
+</section>
+
+<section class="card">
+  <h2>Ressources</h2>
+  <ul class="bullets">
+    <li>Lien Copilot France — inscription</li>
+    <li>Lien Webinar Copilot Chat</li>
+    <li>Documentation IA pour l’assurance</li    <li>Documentation IA pour l’assurance</li>
+  </ul>
+</section>
+
+</main>
+
+<footer class="site-footer">
+© 2025 · Margaux Courtoux
+</footer>
+
+</body>
